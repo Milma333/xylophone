@@ -1,23 +1,23 @@
 var bar1,bar2,bar3,bar4,stick,stickimg,stand,standimg,backimg;
 var s1,s2,s3,s4,t1,t2,t3,t4,t5,t6,t7,t8;
 function preload(){
-    s1=loadSound("/sounds/s1.wav");
-    s2=loadSound("/sounds/s2.wav");
-    s3=loadSound("/sounds/s3.wav");
-    s4=loadSound("/sounds/s4.wav");
-    s5=loadSound("/sounds/s5.wav");
-    s6=loadSound("/sounds/s6.wav");
-    s7=loadSound("/sounds/s7.wav");
-    s8=loadSound("/sounds/s8.wav");
+    s1=loadSound("s1.wav");
+    s2=loadSound("s2.wav");
+    s3=loadSound("s3.wav");
+    s4=loadSound("s4.wav");
+    s5=loadSound("s5.wav");
+    s6=loadSound("s6.wav");
+    s7=loadSound("s7.wav");
+    s8=loadSound("s8.wav");
 
-    t1=loadImage("/tabs/t8.png");
-    t2=loadImage("/tabs/t7.png");
-    t3=loadImage("/tabs/t6.png");
-    t4=loadImage("/tabs/t5.png");
-    t5=loadImage("/tabs/t4.png");
-    t6=loadImage("/tabs/t3.png");
-    t7=loadImage("/tabs/t2.png");
-    t8=loadImage("/tabs/t1.png");
+    t1=loadImage("t8.png");
+    t2=loadImage("t7.png");
+    t3=loadImage("t6.png");
+    t4=loadImage("t5.png");
+    t5=loadImage("t4.png");
+    t6=loadImage("t3.png");
+    t7=loadImage("t2.png");
+    t8=loadImage("t1.png");
 
     standimg=loadImage("stand.png")
     stickimg=loadImage("stick.png")
