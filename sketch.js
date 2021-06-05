@@ -10,14 +10,14 @@ function preload(){
     s7=loadSound("/sounds/s7.wav");
     s8=loadSound("/sounds/s8.wav");
 
-    t1=loadImage("tabs/t8.png");
-    t2=loadImage("tabs/t7.png");
-    t3=loadImage("tabs/t6.png");
-    t4=loadImage("tabs/t5.png");
-    t5=loadImage("tabs/t4.png");
-    t6=loadImage("tabs/t3.png");
-    t7=loadImage("tabs/t2.png");
-    t8=loadImage("tabs/t1.png");
+    t1=loadImage("/tabs/t8.png");
+    t2=loadImage("/tabs/t7.png");
+    t3=loadImage("/tabs/t6.png");
+    t4=loadImage("/tabs/t5.png");
+    t5=loadImage("/tabs/t4.png");
+    t6=loadImage("/tabs/t3.png");
+    t7=loadImage("/tabs/t2.png");
+    t8=loadImage("/tabs/t1.png");
 
     standimg=loadImage("stand.png")
     stickimg=loadImage("stick.png")
